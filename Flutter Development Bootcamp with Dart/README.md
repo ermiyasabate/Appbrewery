@@ -1,5 +1,7 @@
 # THE COMPLETE FLUTTER DEVELOPMENT BOOTCAMP
 
+![Flutter](image.png)
+
 ## INTRODUCTION TO DEVELOPMENT WITH FLUTTER
 
 - Learn to set up a new Flutter project using Android Studio.
